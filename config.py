@@ -1,0 +1,4 @@
+TOKEN = '5235937406:AAFkLcB6TbTc4BaE7tq9iOpq0bl8Qihn-lE'
+
+my_id = 809892286
+
